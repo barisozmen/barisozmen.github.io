@@ -26,3 +26,6 @@
 * Code Reviewing in the Trenches: Understanding
 * Challenges, Best Practices and Tool Needs ([Microsoft Research paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/MS-Code-Review-Tech-Report-MSR-TR-2016-27.pdf))
 * The Best Kept Secrects of Peer Code Review ([Palantir book](https://smartbear.com/resources/ebooks/best-kept-secrets-of-code-review/))
+
+## Resource resources
+* Software Craftmanship North America Conference ([talks](https://scna.softwarecraftsmanship.org/#7))
