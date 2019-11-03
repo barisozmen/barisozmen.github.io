@@ -2,7 +2,7 @@
 
 
 ## On technical debt
-* 2014. NIPS. Sculley et al. Machine Learning: The High Interest Credit Card of Technical Debt ([Google AI paper](https://ai.google/research/pubs/pub43146))
+* 2014. NIPS. Sculley et al. Machine Learning: The High Interest Credit Card of Technical Debt
 * 2015. NIPS. Sculley et al. Hidden Technical Debt in Machine Learning Systems ([paper](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf))
 
 ## Scaling
@@ -15,9 +15,9 @@
 * Putting ML into production systems ([article](https://queue.acm.org/detail.cfm?id=3365847))
 * Data Validation for Machine Learning ([Google Research paper](https://www.sysml.cc/doc/2019/167.pdf))
 * Building ML pipeline at AppNexus ([blog](https://techblog.appnexus.com/lessons-learned-from-building-scalable-machine-learning-pipelines-822acb3412ad))
-1. Research-Production Parity
-2. Preventing Pipeline Jungles
-3. Experiments Versioning and Collaboration
-4. Model Freshness Trade-offs
+  1. Research-Production Parity
+  2. Preventing Pipeline Jungles
+  3. Experiments Versioning and Collaboration
+  4. Model Freshness Trade-offs
 
 
