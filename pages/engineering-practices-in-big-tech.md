@@ -5,7 +5,7 @@
 * _Software Engineering at Google ([paper](https://arxiv.org/pdf/1702.01715.pdf))_
 * _What It Takes to Get Certified to Review Code At Google ([news](https://dev.to/pullrequest/getting-the-certification-to-review-code-at-google-55ng))_
 * _Modern Code Review: A Case Study at Google ([paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/80735342aebcbfc8af4878373f842c25323cb985.pdf))_
-* __Why Google Stores Billions of Lines of Code in a Single Repo ([talk](https://www.youtube.com/watch?v=W71BTkUbdqE))__
+* <ins>Why Google Stores Billions of Lines of Code in a Single Repo ([talk](https://www.youtube.com/watch?v=W71BTkUbdqE))<ins>
    * Trunk-based development
    * Advantages of a monolithic repo
       * single source of truth
