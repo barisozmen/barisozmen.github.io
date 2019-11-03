@@ -2,9 +2,9 @@
 
 Includes pages where resources/links/ideas are dumped into.
 
-* [Engineering practices in big tech](engineering-practices-in-big-tech.html)
-* [Machine Learning Technical Dept](machine-learning-techincal-dept.html)
+* [Engineering Practices In Big Tech](engineering-practices-in-big-tech.html)
 * [System Design Resources](system-design-resources.html)
+* [Machine Learning Best practices](machine-learning-best-practices.html)
 * [Spark Resources](spark-resources.html)
 * [Ideas on Software Engineering](software-engineering-ideas.html)
 * [Time Makers](time-makers.html)
