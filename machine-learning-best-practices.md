@@ -2,8 +2,8 @@
 
 
 ## On technical debt
-* 2014. NIPS. Sculley et al. Machine Learning: The High Interest Credit Card of Technical Debt
-* 2015. NIPS. Sculley et al. Hidden Technical Debt in Machine Learning Systems ([paper](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf))
+* NIPS. Sculley et al. Machine Learning: The High Interest Credit Card of Technical Debt ([Google AI paper](https://ai.google/research/pubs/pub43146))
+* NIPS. Sculley et al. Hidden Technical Debt in Machine Learning Systems ([paper](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf))
 
 ## Scaling
 * Scaling ML at Uber ([Uber Engineering blog](https://eng.uber.com/scaling-michelangelo/))
