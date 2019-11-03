@@ -2,7 +2,7 @@
 
 ## Google
 * <ins>Eng. Practices Guide ([wiki](https://google.github.io/eng-practices/))</ins>
-   * Software development
+   * **Software development**
      * development always at "head"
      * code ownership
      * hermetic build system
@@ -22,10 +22,10 @@
           * increases sense of ownership of new engineers in the project
           * encourages mobility of engineers between projects
           * ensure code is written in recent tech and methodology
-    * Project management
+    * **Project management**
        * allows spending 20% time on any project
        * OKRs
-    * People management
+    * **People management**
        * Roles
           * tech leadership and people management distinction
           * searate career progression for engineering and management
@@ -38,7 +38,7 @@
           * Product manager
           * Program manager / Technical program manager
             * similar to product manager, but rather than product, manages processes (e.g. data collection)
-    * Facilities
+    * **Facilities**
       * open plan seatings
         * Pros: encourage communation, economical
         * Cons: less concentration.
