@@ -14,7 +14,8 @@
 * How we build code at Netflix ([blog](https://medium.com/netflix-techblog/how-we-build-code-at-netflix-c5d9bd727f15))
 
 ## Review Papers
-Convergent Software Peer Review Practices ([Microsoft Research paper](https://www.microsoft.com/en-us/research/publication/convergent-software-peer-review-practices/)) -> *"We examine two Google lead projects, Android and Chrome, three Microsoft projects, Bing, Office, and MS SQL, and one project internal to AMD. We contrast our findings with data taken from traditional software inspection conducted on a Lucent project, a compiler, and from open source software peer review on six projects, including Apache, Linux, and KDE"*
+* Rigby, Bird. 2013. ACM. Convergent Software Peer Review Practices ([Microsoft Research paper](https://www.microsoft.com/en-us/research/publication/convergent-software-peer-review-practices/))
+    *"We examine two Google lead projects, Android and Chrome, three Microsoft projects, Bing, Office, and MS SQL, and one project internal to AMD. We contrast our findings with data taken from traditional software inspection conducted on a Lucent project, a compiler, and from open source software peer review on six projects, including Apache, Linux, and KDE"*
 
 ## Empiricial Studies on Engineering Practices
 * Bird, Bacchelli. 2013. IEEE. Expectation, Outcomes, and Challenges of Modern Code Review ([Microsoft Research paper](https://www.microsoft.com/en-us/research/publication/expectations-outcomes-and-challenges-of-modern-code-review/))
