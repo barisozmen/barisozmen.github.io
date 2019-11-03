@@ -7,7 +7,7 @@
 * Modern Code Review: A Case Study at Google ([paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/80735342aebcbfc8af4878373f842c25323cb985.pdf))
 
 ## Microsoft
-* Company's Research department for empricial research on software productivity -> ([RISE](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/))
+* Company's Research department for empricial research on software productivity. Find many research papers at ([RISE website](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/))
 
 ## LinkedIn
 * Scaling Collective Code Ownership with Code Reviews ([blog](https://engineering.linkedin.com/blog/2018/06/scaling-collective-code-ownership-with-code-reviews)) ([talk](https://scna.softwarecraftsmanship.org/#7)) -> gives links to very useful empirical research papers
