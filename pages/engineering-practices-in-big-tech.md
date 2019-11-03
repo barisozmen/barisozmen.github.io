@@ -25,7 +25,6 @@
     * Project management
        * allows spending 20% time on any project
        * OKRs
-       * 
     * People management
        * Roles
           * tech leadership and people management distinction
@@ -40,6 +39,11 @@
           * Program manager / Technical program manager
             * similar to product manager, but rather than product, manages processes (e.g. data collection)
     * Facilities
+      * open plan seatings
+        * Pros: encourage communation, economical
+        * Cons: less concentration.
+        * Blog arguing against open offices ([blog](https://stackoverflow.blog/2015/01/16/why-we-still-believe-in-private-offices/))
+           * research/news might suggest open office is a bad idea: [damages productivity](https://www.dezeen.com/2014/11/21/open-plan-office-designs-unpopular-with-workers-damage-productivity/), [less satisfaction](https://journals.sagepub.com/doi/abs/10.1177/0013916502034003001), [open-office trap](https://www.newyorker.com/business/currency/the-open-office-trap)
       
         
     
