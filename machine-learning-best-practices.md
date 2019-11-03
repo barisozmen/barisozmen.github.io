@@ -10,14 +10,16 @@
   3. Experiments Versioning and Collaboration
   4. Model Freshness Trade-offs
   
-## On technical debt
-* 2014 NIPS. Sculley et al. Machine Learning: The High Interest Credit Card of Technical Debt ([Google AI paper](https://ai.google/research/pubs/pub43146))
-* 2015 NIPS. Sculley et al. Hidden Technical Debt in Machine Learning Systems ([paper](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf))
-
 ## Scaling
 * Scaling ML at Uber ([Uber Engineering blog](https://eng.uber.com/scaling-michelangelo/))
 * Scaling ML as a service ([Uber paper](http://proceedings.mlr.press/v67/li17a/li17a.pdf))
 * Scaling ML productivity at LinkedIn ([LinkedIn Engineering blog](https://engineering.linkedin.com/blog/2019/01/scaling-machine-learning-productivity-at-linkedin))
+
+## On technical debt
+* 2014 NIPS. Sculley et al. Machine Learning: The High Interest Credit Card of Technical Debt ([Google AI paper](https://ai.google/research/pubs/pub43146))
+* 2015 NIPS. Sculley et al. Hidden Technical Debt in Machine Learning Systems ([paper](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf))
+
+
 
 
 
