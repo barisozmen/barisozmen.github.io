@@ -1,4 +1,4 @@
-# Scattered Software Engineering Ideas
+# Software Engineering Career Ideas
 
 
 ## Most important skills
