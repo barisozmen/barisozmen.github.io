@@ -10,6 +10,9 @@
   3. Experiments Versioning and Collaboration
   4. Model Freshness Trade-offs
   
+* Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective ([Facebook paper](https://research.fb.com/publications/applied-machine-learning-at-facebook-a-datacenter-infrastructure-perspective/)) ([a commenting blog](https://blog.acolyer.org/2018/12/17/applied-machine-learning-at-facebook-a-datacenter-infrastructure-perspective/))
+* Applying Deep Learning to AirBnb Search ([KDD'19 paper](https://arxiv.org/abs/1810.09591))
+  
 ## Scaling
 * Scaling ML at Uber ([Uber Engineering blog](https://eng.uber.com/scaling-michelangelo/))
 * Scaling ML as a service ([Uber paper](http://proceedings.mlr.press/v67/li17a/li17a.pdf))
@@ -18,6 +21,9 @@
 ## On technical debt
 * 2014 NIPS. Sculley et al. Machine Learning: The High Interest Credit Card of Technical Debt ([Google AI paper](https://ai.google/research/pubs/pub43146))
 * 2015 NIPS. Sculley et al. Hidden Technical Debt in Machine Learning Systems ([paper](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf))
+
+## Resource Resources
+The morning paper ([nice blog explaining one ML paper at a day](https://blog.acolyer.org/))
 
 
 
