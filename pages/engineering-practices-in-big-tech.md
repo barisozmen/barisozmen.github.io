@@ -2,6 +2,49 @@
 
 ## Google
 * <ins>Eng. Practices Guide ([wiki](https://google.github.io/eng-practices/))</ins>
+   * Software development
+     * development always at "head"
+     * code ownership
+     * hermetic build system
+     * must review minimum one other engineer
+     * encourage small changes (CLs labeled as S,M,L,XL)
+     * Buganizer, bug tracking system. bug triage practices
+     * insists on using limited number of (5) programming languages: C++, Java, Python, Go, JavaScript
+          * reduces obstacles to code reuse and programmer collaboration
+          * Protocol buffers for interoperating between different programming languages
+          * single command set for usual tasks no matter which language (e.g. check out, edit, build, commit, file bug, ...)
+      * canary services
+      * post-mortems
+      * Frequent software re-writes (1-2 years) !!
+          * benefits worth the cost
+          * requirements change significantly in few years in a typical project, software designed around old requirements is most of the time not optimal for current requirements
+          * software accumulates complexity over years
+          * increases sense of ownership of new engineers in the project
+          * encourages mobility of engineers between projects
+          * ensure code is written in recent tech and methodology
+    * Project management
+       * allows spending 20% time on any project
+       * OKRs
+       * 
+    * People management
+       * Roles
+          * tech leadership and people management distinction
+          * searate career progression for engineering and management
+          * Engineering manager
+             * selects tech leads, responsible for team performance, coaching assistance in career development, performance evaluation, some aspects of compensation and hiring
+             * manages 3 to 30 people. 8 to 12 is most common
+          * SWE
+          * Research scientist
+          * SRE
+          * Product manager
+          * Program manager / Technical program manager
+            * similar to product manager, but rather than product, manages processes (e.g. data collection)
+    * Facilities
+      
+        
+    
+    
+        
 * <ins>Software Engineering at Google ([paper](https://arxiv.org/pdf/1702.01715.pdf))</ins>
 * <ins>What It Takes to Get Certified to Review Code At Google ([news](https://dev.to/pullrequest/getting-the-certification-to-review-code-at-google-55ng))</ins>
 * <ins>Modern Code Review: A Case Study at Google ([paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/80735342aebcbfc8af4878373f842c25323cb985.pdf))</ins>
@@ -12,13 +55,7 @@
       * diamond dependency problem
       * easier to modernize codebase
    * tooling support
-      * code review
-      * code search
-      * tricorder
-      * presubmits
-      * testing before and after commit, auto roll-back
-      * change distribution and management
-   * Diamond dependency problem
+      * code review, code search, tricorder, presubmits, testing before and after commit, auto roll-back, change distribution and management
    * Warning: this may or may not be the right approach for your company
       
 
