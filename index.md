@@ -8,7 +8,7 @@ Includes pages where resources/links/ideas are dumped into.
 * [Spark Resources](spark-resources.html)
 * [Ideas on Software Engineering](software-engineering-ideas.html)
 * [Time Makers](time-makers.html)
-* [Engineering blogpost best practices](engineering-blogpost-best-practices.md)
+* [Engineering blogpost best practices](engineering-blogpost-best-practices.html)
 * [Python Visualization Libraries](python-visualization-libraries.html)
 * [Python Decorators](python-decorators.html)
 * [OOP Resources](oop-resources.html)
