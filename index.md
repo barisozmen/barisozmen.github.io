@@ -1,9 +1,9 @@
 # Personal Wiki
 
 
-* [System Design Resources](system-design-resources.html)
-* [Spark Resources](spark-resources.html)
-* [Ideas on Software Engineering (unstructured)](software-engineering-ideas.html)
+* [System Design Resources](pages/system-design-resources.html)
+* [Spark Resources](pages/spark-resources.html)
+* [Ideas on Software Engineering (unstructured)](pages/software-engineering-ideas.html)
 
 
 
