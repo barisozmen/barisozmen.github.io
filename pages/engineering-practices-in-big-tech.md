@@ -5,6 +5,22 @@
 * Software Engineering at Google ([paper](https://arxiv.org/pdf/1702.01715.pdf))
 * What It Takes to Get Certified to Review Code At Google ([news](https://dev.to/pullrequest/getting-the-certification-to-review-code-at-google-55ng))
 * Modern Code Review: A Case Study at Google ([paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/80735342aebcbfc8af4878373f842c25323cb985.pdf))
+* Why Google Stroes Billions of Lines of Code in a Single Repo ([talk](https://www.youtube.com/watch?v=W71BTkUbdqE))
+   * Trunk-based development
+   * Advantages of a monolithic repo
+      * single source of truth
+      * diamond dependency problem
+      * easier to modernize codebase
+   * tooling support
+      * code review
+      * code search
+      * tricorder
+      * presubmits
+      * testing before and after commit, auto roll-back
+      * change distribution and management
+   * Diamond dependency problem
+   * Warning: this may or may not be the right approach for your company
+      
 
 ## Microsoft
 * Company's Research department for empricial research on software productivity. Find many research papers at ([RISE website](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/))
