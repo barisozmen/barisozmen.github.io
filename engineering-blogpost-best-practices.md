@@ -15,3 +15,6 @@ My blogpost : [Auto-ML for data augmentation](https://blog.insightdatascience.co
 - Each subtitle should state the conclusion from each content
 - If you can explain anything with a table or plot, do it
 - be concise in speech
+
+
+A nice layout ([example](https://medium.com/make-better-software/jiras-not-bad-so-why-are-so-many-teams-looking-at-alternatives-like-manuscript-d5b7cd48b090)): Title, summary, big image, main text 
