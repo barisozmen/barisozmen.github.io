@@ -45,7 +45,8 @@ Should know learning what would provide highest return of investment (ROI). Alwa
 
 ### Learning tools best for maximum productivity
 Learn productivity tools and how to orchestrate them together extremely well. These tools will be changing by time and are ever improving. Therefore always be searching for better productivity tools. Upgrade/change them if a change would make you more productivity. For today (2019), most important ones are:
- - Profile yourself. Where do you spend most time? Which tool? Whic process? Optimize your usage of that tool, process. Have an eye on pain points !!
+ - Profile yourself. Where do you spend most time? Which tool? Whic process? Optimize processes, tools taking the most time. Have an eye on pain points!! (analoguos to [code profiling](https://en.wikipedia.org/wiki/Profiling_(computer_programming)))
+    - idea: profile yourself like a statistical code profiler. Set alarm to random times, and note what you are doing at each exact time.
  - Editor (Intellij, Pycharm)
     - use best editors always, affects productivity a lot
     - master code navigation (e.g. jump to function definition (command+B), jump back to previous place (command+<-))
@@ -55,7 +56,7 @@ Learn productivity tools and how to orchestrate them together extremely well. Th
     - write for others
     - be very structured between different CRs
  - Git
-    - master code versioning. you can control it over Intellij as well. very important during debugging. keep points in time, so you can return back, or do **binary search** on changes for finding bug sources. It is log faster than searching bugs one change at a time.
+    - master code versioning. you can control it over IntellIJ as well. Very important during debugging. keep points in time, so you can return back, or do **binary search** on changes for finding bug sources. It is log faster than searching bugs one change at a time.
  - Jira
     - how to plan all work. be able to note anything coming to your mind. have a light structure
     
