@@ -6,6 +6,9 @@
 * What It Takes to Get Certified to Review Code At Google ([news](https://dev.to/pullrequest/getting-the-certification-to-review-code-at-google-55ng))
 * Modern Code Review: A Case Study at Google ([paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/80735342aebcbfc8af4878373f842c25323cb985.pdf))
 
+## Microsoft
+* Company's Research department for empricial research on software productivity -> ([RISE](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/))
+
 ## LinkedIn
 * Scaling Collective Code Ownership with Code Reviews ([blog](https://engineering.linkedin.com/blog/2018/06/scaling-collective-code-ownership-with-code-reviews)) ([talk](https://scna.softwarecraftsmanship.org/#7)) -> gives links to very useful empirical research papers
 * Effective Code Reviews and File Ownerships ([blog](https://engineering.linkedin.com/blog/2016/01/effective-code-reviews-and-file-ownerships))
