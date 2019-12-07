@@ -31,6 +31,9 @@
 - Be well literate of info/warning/error loggings. try understand coming error types (exceptions) for language.
 - Think on causes of bugs, think on internals of language.
 
+### Fast code reading skill
+- Understand API's you are using from reading the source code. It's more reliable than documentation.
+- Practice fast code reading, at first it's hard, but later it can be easier to read from code than the documentation
 
 ### Adaptability to new tech
 Software engineering stack is rapidly changing. Learning any tool very well would lose its value in 5-10 years. What is important is learning how to learn a new tool/tech faster. Which involves:
@@ -60,7 +63,7 @@ Learn productivity tools and how to orchestrate them together extremely well. Th
  - Jira
     - how to plan all work. be able to note anything coming to your mind. have a light structure
     
-### Read classical books, Follow best people, learn best practices, common pitfalls
+### Read classical books, Follow best people, learn best practices and common pitfalls
 Classical books:
  - Pragmatic programmer
  - Design patterns
@@ -78,6 +81,7 @@ Classical books:
  - unit testing
  - CI/CD
  - Murphy law applies as if things may go wrong, they will
+ - Book: [Zero Bugs and Program Faster](https://www.amazon.com/Zero-Bugs-Program-Faster-Thompson/dp/0996193308/ref=asc_df_0996193308/?tag=hyprod-20&linkCode=df0&hvadid=312091457223&hvpos=1o1&hvnetw=g&hvrand=2253535076960508376&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1014221&hvtargid=aud-829758849484:pla-521736069013&psc=1&tag=&ref=&adgrpid=62820903995&hvpone=&hvptwo=&hvadid=312091457223&hvpos=1o1&hvnetw=g&hvrand=2253535076960508376&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1014221&hvtargid=aud-829758849484:pla-521736069013)
 
     
  ## References
