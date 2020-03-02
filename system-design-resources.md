@@ -93,3 +93,6 @@ https://www.codecademy.com/articles/what-is-rest
 ### Data engineering pipeline 
 with choices of technologies for each stage
 <img width="992" alt="dataengpipeline" src="https://user-images.githubusercontent.com/14996155/54097102-db38b880-436b-11e9-8e00-24797e6a182f.png">
+
+### CAP Theorem
+<img width="992" alt="CAP Theorem" src="https://user-images.githubusercontent.com/14996155/75638829-b1168100-5be2-11ea-8ca8-473d8a4dc559.png">
