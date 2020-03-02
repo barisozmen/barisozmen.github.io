@@ -95,4 +95,11 @@ with choices of technologies for each stage
 <img width="992" alt="dataengpipeline" src="https://user-images.githubusercontent.com/14996155/54097102-db38b880-436b-11e9-8e00-24797e6a182f.png">
 
 ### CAP Theorem
-<img width="992" alt="CAP Theorem" src="https://user-images.githubusercontent.com/14996155/75638829-b1168100-5be2-11ea-8ca8-473d8a4dc559.png">
+<img width="332" alt="CAP Theorem. Source:https://robertgreiner.com/cap-theorem-revisited/" src="https://user-images.githubusercontent.com/14996155/75638829-b1168100-5be2-11ea-8ca8-473d8a4dc559.png">
+
+In a distributed computer system, you can only support two of the following guarantees:
+
+**Consistency** - Every read receives the most recent write or an error
+**Availability** - Every request receives a response, without guarantee that it contains the most recent version of the information
+**Partition** Tolerance - The system continues to operate despite arbitrary partitioning due to network failures
+Networks aren't reliable, so you'll need to support partition tolerance. You'll need to make a software tradeoff between consistency and availability.
