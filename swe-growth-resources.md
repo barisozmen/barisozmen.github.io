@@ -17,3 +17,32 @@ Proven techniques for increasing your engineering impact. Edmond Lau ([Google te
 Is Working At Google Really The Gold Standard For Software Engineers? ([news](https://www.forbes.com/sites/quora/2017/07/31/is-working-at-google-really-the-gold-standard-for-software-engineers/#6d8d6f372727))
 
 How Dropbox started as MVP ([tech crunch](https://techcrunch.com/2011/10/19/dropbox-minimal-viable-product/))
+
+## Blogposts to follow
+ - Gergly Orosz Blogpost ([The Pragmatic Engineer](https://blog.pragmaticengineer.com/author/gergely/))
+
+## Promotions
+  - **Software Engineering Promotions: Advice to Get to That Next Level** ([blogpost](https://blog.pragmaticengineer.com/software-engineering-promotions/))
+     - Do Your Preparation
+       - Understand the promotion process at your company
+       - Assess yourself
+       - Get your manager on your side
+          - (It is in the best interest of your manager for you to be promoted - when you are ready.)
+       - Be realistic in promotions above the senior bar (i.e. promotions becoming exponentially harder when leveling up)
+     - Set your sight on the promotion
+       - Set goals to close the gap on areas you lack for the next level
+       - Act and take responsibility like you're already at the next level
+       - Keep a log of your achievements and impact
+     - Get help & frequent feedback
+       - Get a mentor in the company, to help you ([his blogpost on mentoring](https://blog.pragmaticengineer.com/developers-mentoring-other-developers/))
+       - Ask for regular, explicit feedback
+     - Put in the work
+       - Don't alienate your peers
+       - Don't kick back, even when you feel things are in your pocket
+     - Stay grounded
+       - Don't believe anyone who promises you a "sure promotion."
+       - Don't have promotion be your only goal 
+         - (i.e If your primary goals are about professional growth, even if you are not promoted, you will have gained valuable skills.)
+       - Promotion is not the only way to get positive feedback
+       - Stay patient and be positive. It's a long game.
+     - Help others
