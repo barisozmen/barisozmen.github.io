@@ -12,6 +12,12 @@ Building Software Systems at Google and Lessons Learned. Jeff Dean ([video](http
 
 Proven techniques for increasing your engineering impact. Edmond Lau ([Google tech talk](http://www.effectiveengineer.com/blog/effective-engineer-talk-at-google?utm_source=drip&utm_medium=email&utm_campaign=google-tech-talk))
 
+## How to read source code
+ - Download the interested source code and run on your machine
+ - Start playing with the tool, try using it with all functionalities, test the edge cases, try finding not well performing queries/functionalities
+ - Run a command, and follow the stacktrace
+ - Run another command and follow/read stacktrace again
+ - Continue like that, softwares usually have a layered structure, so best way to understand what's going on is following the stacktrace, instead of reading from the repo.
 
 ## Others
 Is Working At Google Really The Gold Standard For Software Engineers? ([news](https://www.forbes.com/sites/quora/2017/07/31/is-working-at-google-really-the-gold-standard-for-software-engineers/#6d8d6f372727))
