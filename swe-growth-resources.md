@@ -1,10 +1,7 @@
 
 
 ## Channels to follow
-[TechLead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw)
-
 [Success in tech](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw)
-[]
 
 
 ## Technical keynotes
