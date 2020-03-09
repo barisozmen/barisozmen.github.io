@@ -105,3 +105,6 @@ In a distributed computer system, you can only support two of the following guar
 
 **Partition** Tolerance - The system continues to operate despite arbitrary partitioning due to network failures
 Networks aren't reliable, so you'll need to support partition tolerance. You'll need to make a software tradeoff between consistency and availability.
+
+### Consistent Hashing
+A hash map with machines instead of buckets ([ref](https://www.interviewcake.com/concept/java/consistent-hashing)). 
