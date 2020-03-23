@@ -19,4 +19,4 @@
     3. select text, **cmd+shift+period** for bumping up the font, and **cmd+shift+comma** for bumping down
     4. Use voice-to-text
     5. Select word and **cmd+shift+y** open up the word on dictionary
-  - 40+ google doc tips - option+/ -> you can search commands (as shift-shift in IntellIJ)
+    6. option + "/"  search commands (equivalent to shift-shift in IntellIJ)
