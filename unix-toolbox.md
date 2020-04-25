@@ -46,3 +46,5 @@
 jq Manual at https://stedolan.github.io/jq/manual/ (jq is a lightweight and flexible command-line JSON processor)
     
 [Linux vs Unix: What's the difference](https://opensource.com/article/18/5/differences-between-linux-and-unix)
+
+**Intro to unix tele typewriter** - [The TTY demystified](http://www.linusakesson.net/programming/tty/index.php)
