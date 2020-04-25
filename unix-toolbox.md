@@ -1,6 +1,6 @@
 # Unix Toolbox and Resources
 
-Amazing Intro to Unix Blog Post - [How Unix Works: Become a Better SWE](https://neilkakkar.com/unix.html)
+**Amazing Intro to Unix Blog Post -** [How Unix Works: Become a Better SWE](https://neilkakkar.com/unix.html)
   - Let’s start at the core - the philosophy behind Unix.
      - Write programs that do one thing and do it well.
      - Write programs to work together. (no extra output, don’t insist on interactive input)
@@ -13,12 +13,13 @@ Amazing Intro to Unix Blog Post - [How Unix Works: Become a Better SWE](https://
  - chmod in verbose mode
     ```
     $ chmod u+rwx . # enable user for rwx
+    $ chmod u-r .   # disable user for r
     $ chmod g+w .   # enable group for w
     $ chmod o+x .   # enable others for x
     ```
- 
+  - `>` redirects stdout to a file, and `>>` appends stdout to a file
 
-Corey Schaffer's Linux/Mac Tutorials ([youtube](https://www.youtube.com/watch?v=j6vKLJxAKfw&list=PL-osiE80TeTvGhHkpvfmKWOiIPF8UVy6c))
+**Corey Schaffer's Linux/Mac Tutorials** ([youtube](https://www.youtube.com/watch?v=j6vKLJxAKfw&list=PL-osiE80TeTvGhHkpvfmKWOiIPF8UVy6c))
  - [Mac OS X Terminal: time-saving shortcuts](https://www.youtube.com/watch?v=TXzrk3b9sKM&list=PL-osiE80TeTvGhHkpvfmKWOiIPF8UVy6c&index=11))
     - hold option key and click on any point  - move cursor anywhere
     - ctrl + u   -> remove everything before the cursor
@@ -33,6 +34,6 @@ Corey Schaffer's Linux/Mac Tutorials ([youtube](https://www.youtube.com/watch?v=
     [useful when testing REST applications]
     - $ cur
     
-    
+jq Manual at https://stedolan.github.io/jq/manual/ (jq is a lightweight and flexible command-line JSON processor)
     
 [Linux vs Unix: What's the difference](https://opensource.com/article/18/5/differences-between-linux-and-unix)
