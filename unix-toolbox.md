@@ -48,3 +48,7 @@ jq Manual at https://stedolan.github.io/jq/manual/ (jq is a lightweight and flex
 [Linux vs Unix: What's the difference](https://opensource.com/article/18/5/differences-between-linux-and-unix)
 
 **Intro to unix tele typewriter** - [The TTY demystified](http://www.linusakesson.net/programming/tty/index.php)
+
+**Where grep came from** - ([youtube](https://www.youtube.com/watch?v=NTfOnGZUZDk))
+ - g/re/p => (g)lobally search a (re)gular expression and (p)rint - (p is print in ed text editor)
+ - grep (originally) uses ed text editor in the middle
