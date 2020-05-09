@@ -1,6 +1,8 @@
 # Math for Machine Learning Resources
 
 ### Thomas' Calculus [[Book](https://www.amazon.com/-/es/Thomas-Calculus-Joel-R-Hass-ebook/dp/B06XNMWWWP/ref=sr_1_1?dchild=1&keywords=thomas+calculus&qid=1589054915&sr=8-1)]
+<img src="https://user-images.githubusercontent.com/14996155/81485297-df2ac980-9200-11ea-8ec8-894baa542073.png" width="100">
+  
   - Pros
     - rigorious understanding
     - getting intuition
@@ -13,6 +15,8 @@
     
     
 ### Goodfellow et al. Deep Learning [[Book](https://www.deeplearningbook.org/)]
+<img src="https://user-images.githubusercontent.com/14996155/81485329-1bf6c080-9201-11ea-8ea2-313e79606956.png" width="100">
+
   - Pros
     - to the point
     - concise
@@ -23,6 +27,8 @@
     - Part I4: Numerical Computation
     
 ### Bishop's Pattern Recognition and Machine Learning [[Book](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)]
+<img src="https://user-images.githubusercontent.com/14996155/81485357-46e11480-9201-11ea-9fe9-7ec6e37baafa.png" width="100">
+
   - Pros
     - to the point
     - concise
@@ -36,6 +42,8 @@
     - Appendix E: Langrange Multipliers (very concise)
     
 ### 3Blue1Brown [[Youtube Channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)]
+<img src="https://user-images.githubusercontent.com/14996155/81485368-552f3080-9201-11ea-9abc-0dcfa9d3a8ee.png" width="50">
+
   - Pros:
     - very intuitive
     - amazing visualizations
@@ -44,6 +52,8 @@
     - Calculus series
     
 ### Mathematics for Machine Learning Specialization [[Coursera](drive.google.com)]
+<img src="https://user-images.githubusercontent.com/14996155/81485400-a3443400-9201-11ea-90ed-b70c78a0e099.png" width="100">
+
   - Pros:
     - teaches what you need
     - many ML related examples, practices
