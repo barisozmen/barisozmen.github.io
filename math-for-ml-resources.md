@@ -52,7 +52,7 @@
     - Calculus series
     
 ### Mathematics for Machine Learning Specialization [[Coursera](drive.google.com)]
-<img src="https://user-images.githubusercontent.com/14996155/81485400-a3443400-9201-11ea-90ed-b70c78a0e099.png" width="500">
+<img src="https://user-images.githubusercontent.com/14996155/81485428-cec71e80-9201-11ea-9efb-92c08509c9ba.png" width="100">
 
   - Pros:
     - teaches what you need
