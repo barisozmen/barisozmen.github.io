@@ -1,7 +1,6 @@
 # Math for Machine Learning Resources
 
-
-- [[Book](https://www.amazon.com/-/es/Thomas-Calculus-Joel-R-Hass-ebook/dp/B06XNMWWWP/ref=sr_1_1?dchild=1&keywords=thomas+calculus&qid=1589054915&sr=8-1)] Thomas' Calculus
+### Thomas' Calculus [[Book](https://www.amazon.com/-/es/Thomas-Calculus-Joel-R-Hass-ebook/dp/B06XNMWWWP/ref=sr_1_1?dchild=1&keywords=thomas+calculus&qid=1589054915&sr=8-1)]
   - Pros
     - rigorious understanding
     - getting intuition
@@ -11,7 +10,9 @@
     - Langrange Multipliers
     - Newton's method
     - Green's and Stoke's theorems
-- [[Book](https://www.deeplearningbook.org/)] Goodfellow et al. Deep Learning
+    
+    
+### Goodfellow et al. Deep Learning [[Book](https://www.deeplearningbook.org/)]
   - Pros
     - to the point
     - concise
@@ -20,7 +21,8 @@
     - Part I2: Linear Algebra
     - Part I3: Probability and Information Theory
     - Part I4: Numerical Computation
-- [[Book](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)] Bishop's Pattern Recognition and Machine Learning
+    
+### Bishop's Pattern Recognition and Machine Learning [[Book](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)]
   - Pros
     - to the point
     - concise
@@ -32,14 +34,16 @@
     - Appendix C: Properties of Matrics (very concise)
     - Appendix D: Calculus of Variations (very concise)
     - Appendix E: Langrange Multipliers (very concise)
-- [[Youtube Channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)][Linear Algebra][Calculus][intuitive] 3Blue1Brown series
+    
+### 3Blue1Brown [[Youtube Channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)]
   - Pros:
     - very intuitive
     - amazing visualizations
   - Key series:
     - Linear Algebra series ()
     - Calculus series
-- [[Coursera](drive.google.com)] Mathematics for Machine Learning Specialization
+    
+### Mathematics for Machine Learning Specialization [[Coursera](drive.google.com)]
   - Pros:
     - teaches what you need
     - many ML related examples, practices
