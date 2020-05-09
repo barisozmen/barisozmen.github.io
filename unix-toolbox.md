@@ -25,6 +25,8 @@
   - Since actions on the entire line are very frequent, the developers of vim created a new shorthand for them — omitting the need to add a motion. Repeat the action to apply on the entire line. For example:
     - To delete the current line: dd
     - To copy the current line: yy
+    - dw -> delete one word
+    - . -> aka "dot" command. Repeat the previous command.
 
 
 
