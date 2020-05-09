@@ -21,6 +21,8 @@ Is Working At Google Really The Gold Standard For Software Engineers? ([news](ht
 
 How Dropbox started as MVP ([tech crunch](https://techcrunch.com/2011/10/19/dropbox-minimal-viable-product/))
 
+MIT The Missing Semester (https://missing.csail.mit.edu/)
+
 ## Blogposts to follow
  - Gergly Orosz Blogpost ([The Pragmatic Engineer](https://blog.pragmaticengineer.com/author/gergely/))
 
@@ -49,3 +51,4 @@ How Dropbox started as MVP ([tech crunch](https://techcrunch.com/2011/10/19/drop
        - Promotion is not the only way to get positive feedback
        - Stay patient and be positive. It's a long game.
      - Help others
+
