@@ -76,7 +76,7 @@
       - Special Eigen-cases
       - Calculating Eigenvectors
       - Eigenbasis
-      - Diagonalization and Powers of A (better explained by G. Strang [22nd lecture](https://www.youtube.com/watch?v=13r9QY6cmjc))
+      - Diagonalization and Powers of A (better explained by [Gilbert Strang's 22nd lecture](https://www.youtube.com/watch?v=13r9QY6cmjc))
       - Pagerank algorithm (example)
     - Multivariate Calculus
       - Variables, constants
