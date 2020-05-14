@@ -86,6 +86,7 @@
         - Chain rule
       - Variables, constants, and context
       - Differentiate wrt anything
+        - total derivative
       - **Jacobian**
       - **Sandbit**
       - **Hessian**
