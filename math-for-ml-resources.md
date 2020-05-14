@@ -79,6 +79,11 @@
       - Diagonalization and Powers of A (better explained by [Gilbert Strang's 22nd lecture](https://www.youtube.com/watch?v=13r9QY6cmjc))
       - Pagerank algorithm (example)
     - Multivariate Calculus
+      - 4 fundamental rules
+        - Sum rule
+        - Power rule
+        - Product rule
+        - Chain rule
       - Variables, constants
       - Differentiate wrt anything
       - **Jacobian**
