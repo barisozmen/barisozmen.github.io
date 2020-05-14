@@ -84,7 +84,7 @@
         - Power rule
         - Product rule
         - Chain rule
-      - Variables, constants
+      - Variables, constants, and context
       - Differentiate wrt anything
       - **Jacobian**
       - **Sandbit**
