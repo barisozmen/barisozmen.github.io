@@ -10,6 +10,11 @@ Giants in the field
 Good conferences
  - O'Really Software Architecture Conference [link](https://www.oreilly.com/conferences/software-architecture.html)
  
+Gain technical breadth (know what you don't know). Subscribe to:
+ - [InfoQ](https://www.infoq.com/)
+ - [ThoughtWorks Tech Radar](https://www.thoughtworks.com/radar)
+ - [DZone](https://www.dzone.com/)
+ 
 # Becoming a Software Architect
 
 Mark Richard's lesson [youtube](https://www.youtube.com/watch?v=FKYKeqWfyIs)
