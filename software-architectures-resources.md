@@ -13,7 +13,7 @@ Good conferences
 Gain technical breadth (know what you don't know). Subscribe to:
  - [InfoQ](https://www.infoq.com/)
  - [ThoughtWorks Tech Radar](https://www.thoughtworks.com/radar)
- - [DZone](https://www.dzone.com/)
+ - [DZone](https://www.dzone.com/) - follow refcardz
  
 # Becoming a Software Architect
 
