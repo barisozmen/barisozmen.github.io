@@ -23,6 +23,8 @@ Mark Richard's lesson [youtube](https://www.youtube.com/watch?v=FKYKeqWfyIs)
 
 www.developertoarchitect.com
 
+Focus on tech breadth, instead of tech debt. You should have tech debth in couple of topics, but it's more valuable to know many different technologies.
+
 # Microservices
 
 Microsoft Docs - Communication in a microservice architecture [link](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture)
