@@ -88,7 +88,6 @@
       - Differentiate wrt anything
         - total derivative
       - **Jacobian**
-      - **Sandbit**
       - **Hessian**
       - Multivariate chain rule
       - Simple Neural Networks
